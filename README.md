@@ -4,7 +4,7 @@
 ### Purpose: 
 Review again deep learning theories and practice tensorflow 2.x to implement the ideas to solve problems in the course
 
-### Learning method: 
+### Learning methods: 
 - Watching the tutorials via videos.
 - Practicing exercises
 - Self-extending the problem and find the optimization of the code compared to the tutorial's code.
